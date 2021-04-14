@@ -9,5 +9,6 @@
 			<attribute name="javadoc_location" value="file:/C:/Users/StevenJordan/dbb/groovy-development-environment/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
